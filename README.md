@@ -21,7 +21,7 @@ Install the required dependencies
 
 `npm start`
 
-You're now ready to get working!
+You're now ready to get your weather forecast!
 
 open `http://localhost:8080`
 
