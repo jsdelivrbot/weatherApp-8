@@ -9,7 +9,7 @@ Getting Started:
 
 To begin, from the command line clone the repo!
 
-`$ git clone [URL]`
+`$ git clone https://github.com/mlombard82/weatherApp.git`
 
 Install the required dependencies
 
