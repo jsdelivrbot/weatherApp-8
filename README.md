@@ -1,5 +1,12 @@
 
-A Weather forecast browser built with React and Redux that also uses redux-promise as a middleware to help handle AJAX requests. It fetches data from the <https://openweathermap.org/forecast5> API and integrates with google maps.
+Features
+-------
+
+- A Weather forecast browser built with React and Redux that also uses redux-promise as a middleware to help handle AJAX requests. It fetches data from the <https://openweathermap.org/forecast5> API and integrates with google maps.
+
+Technologies
+--------
+- React, Redux
 
 
 Usage
