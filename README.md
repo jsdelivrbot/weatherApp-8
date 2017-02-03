@@ -4,7 +4,7 @@ Features
 
 - A Weather forecast browser built with React and Redux
 - redux-promise as a middleware to help handle AJAX requests 
-- Fetches data from the <https://openweathermap.org/forecast5> API 
+- Fetches data from the [openweathermap.org](https://openweathermap.org/forecast5) API 
 - Creates real-time graphical representations of website response data using the [react-sparklines](https://github.com/borisyankov/react-sparklines) library
 - Integrates with the google maps API
 
